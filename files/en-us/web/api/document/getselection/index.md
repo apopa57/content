@@ -14,7 +14,7 @@ browser-compat: api.Document.getSelection
 {{APIRef("DOM")}}
 
 The **`getSelection()`** property of
-the {{DOMxRef("Document")}} interface returns a {{DOMxRef("Selection")}}
+the {{DOMxRef("Document")}} method returns a {{DOMxRef("Selection")}}
 object representing the range of text selected by the user, or the current position of
 the caret.
 
